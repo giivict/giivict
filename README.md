@@ -8,7 +8,7 @@ No meu GitHub, você encontrará projetos que mostram meu compromisso com o apre
 Tecnologias e Ferramentas:
 
  * HTML, CSS, JavaScript, TypeScript
- * React, Node.js
+ * React Native
  * Git, GitHub
 
 Estou sempre aberta a novas colaborações e oportunidades que me desafiem a crescer ainda mais como desenvolvedora.
@@ -24,7 +24,7 @@ On my GitHub, you’ll find projects that demonstrate my commitment to continuou
 Technologies and Tools:
 
   * HTML, CSS, JavaScript, TypeScript
-  * React, Node.js
+  * React Native
   * Git, GitHub
 
 I'm always open to new collaborations and opportunities that challenge me to grow further as a developer.
