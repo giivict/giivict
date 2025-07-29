@@ -7,14 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7E017&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Apaixonada+por+UX%2FUI;Aprendendo+React+Native+%26+Node.js;Explorando+o+mundo+Full-Stack" alt="Typing SVG" />
 </p>
 
-## Meu Contribution Graph em Pac‑Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giivictoria/giivictoria/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giivictoria/giivictoria/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/giivictoria/giivictoria/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
 ### 🚀 Sobre mim
