@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7E017&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Apaixonada+por+UX%2FUI;Aprendendo+React+Native+%26+Node.js;Explorando+o+mundo+Full-Stack" alt="Typing SVG" />
 </p>
 
-  (•̪●)─────●●●   
-
-  
 ---
 
 ### 🚀 Sobre mim
