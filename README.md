@@ -9,9 +9,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph-dark.svg?t=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph.svg?t=1">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/giivict/giivict/output/pacman-contribution-graph.svg?t=1">
 </picture>
 
 
