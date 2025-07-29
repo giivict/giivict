@@ -1,30 +1,56 @@
-🇧🇷
+<h1 align="center">👩‍💻 Giovana Santos</h1>
+<p align="center">Front-end Developer em transição para Full-Stack | Amante de boas interfaces 👾</p>
 
-Olá! Sou a Giovana, uma desenvolvedora em transição para a área Full-Stack, com uma paixão por criar interfaces web eficientes e responsivas. 
-Tenho experiência prática em tecnologias como HTML, CSS, JavaScript e TypeScript, e estou sempre buscando expandir meu conhecimento em frameworks modernos.
+---
 
-No meu GitHub, você encontrará projetos que mostram meu compromisso com o aprendizado contínuo e minha habilidade de aplicar novas tecnologias em soluções reais. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7E017&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Apaixonada+por+UX%2FUI;Aprendendo+React+Native+%26+Node.js;Explorando+o+mundo+Full-Stack" alt="Typing SVG" />
+</p>
 
-Tecnologias e Ferramentas:
+  (•̪●)─────●●●   
 
- * HTML, CSS, JavaScript, TypeScript
- * React Native
- * Git, GitHub
+  
+---
 
-Estou sempre aberta a novas colaborações e oportunidades que me desafiem a crescer ainda mais como desenvolvedora.
+### 🚀 Sobre mim
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🇺🇸
+🇧🇷 Olá! Sou a **Giovana**, desenvolvedora em transição para o Full-Stack, com paixão por interfaces web bonitas e funcionais. Tenho experiência prática com **HTML**, **CSS**, **JavaScript**, **TypeScript** e **React Native**.
 
-Hi! I'm Giovana, a developer transitioning into Full-Stack development with a passion for creating efficient and responsive web interfaces. 
-I have hands-on experience with technologies like HTML, CSS, and JavaScript, and I’m always eager to expand my knowledge in modern frameworks.
+🇺🇸 Hi! I'm **Giovana**, a developer transitioning into Full-Stack with a love for beautiful and functional web interfaces. I'm experienced with **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React Native**.
 
-On my GitHub, you’ll find projects that demonstrate my commitment to continuous learning and my ability to apply new technologies to real-world solutions. 
+---
 
-Technologies and Tools:
+### 🛠️ Tecnologias e Ferramentas
 
-  * HTML, CSS, JavaScript, TypeScript
-  * React Native
-  * Git, GitHub
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
 
-I'm always open to new collaborations and opportunities that challenge me to grow further as a developer.
+---
+
+### 🌟 Projeto em Destaque
+
+📱 **[Daily Diet](https://github.com/giivict/dailydiet)**  
+Um app feito com **React Native** para controle de refeições saudáveis. Possui métricas, visualização por data e interface limpa e intuitiva. Desenvolvido durante o Ignite da Rocketseat.  
+
+---
+
+### 🤝 Vamos conversar!
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanavictoria/)
+[![E-mail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:giivictoria26@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="200" />
+</p>
+
+<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+
