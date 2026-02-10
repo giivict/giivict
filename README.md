@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Giovana Santos</h1>
-<p align="center">Front-end Developer em transição para Full-Stack | Amante de boas interfaces 👾</p>
+<p align="center">Full-Stack | Amante de boas interfaces 👾</p>
 
 ---
 
